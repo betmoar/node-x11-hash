@@ -6,10 +6,19 @@ x11 hashing function for node.js. Useful for various cryptocurrencies.
 Usage
 -----
 
+Dependencies
+
+    sudo npm install -g node-gyp
+
+Build
+
+    node-gyp configure
+    node-gyp build
+
 Install
 
     ~
-
+    
 
 Hash your data
 
